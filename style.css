@@ -13,6 +13,7 @@ main {
     margin: 2rem auto 0rem;
     position: relative;
     height:500px;
+    flex-direction:column;
 }
 
 
@@ -75,4 +76,5 @@ body{
      border-radius: 30px;
      padding:10px;
  }
- 
+ @media(max-width:375px){
+}
