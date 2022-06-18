@@ -30,21 +30,21 @@ body{
 
 }
 .item-B{
-   background-color: rgb(94, 94, 39);
+   background-color: rgb(167, 118, 29)
    grid-area: B;
     
 }
 .item-C{
-   background-color: greenyellow;
+   background-color: rgb(3, 43, 3);
    grid-area: C;
     
 }
 .item-D{
-   background-color: rgb(78, 78, 146);
+   background-color:rgb(19, 74, 95);
    grid-area: D;
 }
 .item-E{
-   background-color:rgb(78, 78, 146);
+   background-color:rgb(19, 74, 95);
    grid-area: E;
     
 }
