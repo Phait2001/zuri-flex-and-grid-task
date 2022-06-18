@@ -1,0 +1,78 @@
+main {
+    max-width: 1440px;
+    background-color: #fff;
+    margin-top: 2rem;
+    margin-left: 4rem;
+    position: relative;
+   
+}
+.container {
+    max-width: 55vw;
+    display: flex;
+    gap: 0;
+    margin: 2rem auto 0rem;
+    position: relative;
+    height:500px;
+}
+
+
+body{
+    font-family:Lexend Deca;
+    
+    background-color: hsl(0, 0%, 95%);
+    font-size: 15px;
+    margin:auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+}
+.one{
+   background-color:hsl(31, 77%, 52%);
+   padding:30px; 
+   width:480px;
+   margin-bottom: 20px;
+   
+
+}
+.one button{
+    color:hsl(31, 77%, 52%);
+}
+.two{
+    background-color:hsl(184, 100%, 22%);
+    padding:30px;
+    width:480px;
+    margin-bottom: 20px;
+    
+ }
+ .two button{
+     color:hsl(184, 100%, 22%);
+ }
+ .three{
+    background-color:hsl(179, 100%, 13%);
+    padding:30px;
+    width:480px;
+    margin-bottom: 20px;
+    
+ }
+ .three button{
+    color:hsl(179, 100%, 13%);
+
+ }
+ main h1{
+    color: hsl(0, 0%, 95%);
+    font-family:Big Shoulders Display
+    
+
+ }
+ main p{
+   color : hsla(0, 0%, 100%, 0.75);
+   font-family:Lexend Deca;
+   font-weight: 400;
+   padding-bottom:50px;
+ }
+ button{
+     border-radius: 30px;
+     padding:10px;
+ }
+ 
