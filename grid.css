@@ -30,7 +30,7 @@ body{
 
 }
 .item-B{
-   background-color: rgb(167, 118, 29)
+   background-color: rgb(167, 118, 29);
    grid-area: B;
     
 }
